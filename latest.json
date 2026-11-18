@@ -1,0 +1,6 @@
+{
+  "version": "8.0.0",
+  "bundle_b64_url": "https://raw.githubusercontent.com/Tinyforge3d/float-desktop-widget/main/float_update.zip.b64",
+  "sha256": "66144fc3afd08255378c069bdb6ef0fc589a80250a8ce4e9ca6b8c91ff6260a1",
+  "notes": "Automatic update checks, verified background downloads, and offline-safe operation. Your local tasks and settings are preserved."
+}
