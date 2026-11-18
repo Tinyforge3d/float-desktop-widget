@@ -1,6 +1,22 @@
 {
   "version": "8.0.0",
-  "bundle_url": "https://github.com/Tinyforge3d/float-desktop-widget/releases/download/v8.0.0/Float_8.0.0_Update_Enabled.zip",
+  "bundle_parts": [
+    "https://raw.githubusercontent.com/Tinyforge3d/float-desktop-widget/main/updates/float_update_part_01.txt",
+    "https://raw.githubusercontent.com/Tinyforge3d/float-desktop-widget/main/updates/float_update_part_02.txt",
+    "https://raw.githubusercontent.com/Tinyforge3d/float-desktop-widget/main/updates/float_update_part_03.txt",
+    "https://raw.githubusercontent.com/Tinyforge3d/float-desktop-widget/main/updates/float_update_part_04.txt",
+    "https://raw.githubusercontent.com/Tinyforge3d/float-desktop-widget/main/updates/float_update_part_05.txt",
+    "https://raw.githubusercontent.com/Tinyforge3d/float-desktop-widget/main/updates/float_update_part_06.txt",
+    "https://raw.githubusercontent.com/Tinyforge3d/float-desktop-widget/main/updates/float_update_part_07.txt",
+    "https://raw.githubusercontent.com/Tinyforge3d/float-desktop-widget/main/updates/float_update_part_08.txt",
+    "https://raw.githubusercontent.com/Tinyforge3d/float-desktop-widget/main/updates/float_update_part_09.txt",
+    "https://raw.githubusercontent.com/Tinyforge3d/float-desktop-widget/main/updates/float_update_part_10.txt",
+    "https://raw.githubusercontent.com/Tinyforge3d/float-desktop-widget/main/updates/float_update_part_11.txt",
+    "https://raw.githubusercontent.com/Tinyforge3d/float-desktop-widget/main/updates/float_update_part_12.txt",
+    "https://raw.githubusercontent.com/Tinyforge3d/float-desktop-widget/main/updates/float_update_part_13.txt",
+    "https://raw.githubusercontent.com/Tinyforge3d/float-desktop-widget/main/updates/float_update_part_14.txt",
+    "https://raw.githubusercontent.com/Tinyforge3d/float-desktop-widget/main/updates/float_update_part_15.txt"
+  ],
   "sha256": "3b2b2767836b3b31cd7302ebf1f2432ac9742d160550ebd9f56b9697634c349b",
-  "notes": "First update-enabled Float release. Future updates download automatically after a verified package is published. Your local tasks and settings are preserved."
+  "notes": "Float 8.0.0 enables automatic update checks (up to three times daily), checksum-verified downloads, offline-safe operation, and a manual update check in Settings. Your tasks and preferences stay local."
 }
